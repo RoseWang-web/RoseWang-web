@@ -4,8 +4,8 @@
       <img src="./Rose_Wang.jpg" alt="Rose Wang" width="330" />
     </td>
     <td>
-      <h2>Hi there 👋</h2>
-      <p>This is a Software Engineer, Rose Wang. About me:</p>
+      <h2>Hi, This is Rose Wang 👋</h2>
+      <p>About me:</p>
       <ul>
         <li>🌟 Passionate and results-oriented software engineer with a strong foundation in computer science and a proven track record of driving impactful projects.</li>
         <li>🚀 During my recent technical internship at The Church of Jesus Christ of Latter-day Saints, I had the opportunity to refine my skills in team coordination, problem-solving, and rapid language acquisition.</li>
