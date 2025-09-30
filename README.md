@@ -1,4 +1,15 @@
 ## Hi there 👋
+This is a Software Engineer, Rose Wang. Here is a little about me...
+
+🌟 Passionate and results-oriented software engineer with a strong foundation in computer science and a proven track record of driving impactful projects.
+
+🚀 During my recent technical internship at The Church of Jesus Christ of Latter-day Saints, I had the opportunity to refine my skills in team coordination, problem-solving, and rapid language acquisition. For instance, I developed a Python script that not only automated tedious search tasks but also streamlined the integration of search results into Excel, demonstrating my ability to innovate and deliver practical solutions.
+
+💡 With a solid proficiency in languages such as C++, Java, and Python, coupled with expertise in HTML, JavaScript, and CSS, I excel in crafting robust applications and user-friendly interfaces. My experience spans various projects, from developing task management web applications to designing customer-friendly interfaces for dessert shops and building interactive e-commerce websites from scratch.
+
+🎯 Beyond technical expertise, I am committed to continuous learning and growth. I hold a degree in Computer Science from Ensign College, where I maintained a stellar GPA of 3.9/4.0. Additionally, my experience as a translator for ancient Chinese texts at The Church of Jesus Christ of Latter-day Saints honed my attention to detail and ability to communicate effectively across languages and cultures.
+
+📩 Let's connect to explore how we can collaborate or discuss potential opportunities in software engineering and beyond! You can reach out to me via email at shijia.engineer@gmail.com.
 
 <!--
 **RoseWang-web/RoseWang-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
