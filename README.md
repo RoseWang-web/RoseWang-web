@@ -1,3 +1,4 @@
+![Rose Wang](./Rose_Wang.jpg)
 ## Hi there 👋
 This is a Software Engineer, Rose Wang. Here is a little about me...
 
